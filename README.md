@@ -112,7 +112,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD11
+git clone https://github.com/Princealaba4/CheemsBot-MD11
 cd CheemsBot-MD11
 npm start
 ```
